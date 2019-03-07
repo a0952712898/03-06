@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+p {
+  color: red;
+  border: 2px solid  white;
+  padding: yellow
+}
+p.error {
+  color: green;
+}
+#p01 {
+  color: blue;
+}
